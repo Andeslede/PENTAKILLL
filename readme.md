@@ -88,6 +88,9 @@ GitHub: es una plataforma creada para alojar el código de las aplicaciones de c
 • Mínima versión de Android que va a correr el proyecto
 Para Android Studio se requiere una versión mínima de API nivel 16 o superior.
 
+PLANEACIÓN DE SCRUM Y CÁLCULO DE LA INVERSIÓN DEL PROYECTO
+https://trello.com/invite/b/PYlmt1zZ/ATTI0ff438f48d75a2b66dc169c6082f5dcfC96F7760/pentakillgg
+
 INVERSIÓN CONSIDERAR LOS SIGUIENTES ASPECTOS:
 • Equipo de cómputo (¿Cuánto le tengo que invertir en equipo?) $30,000 MXN
 • Licencia de PlayStore (¿Cuánto cuesta una licencia de desarrollo?) $25 USD
