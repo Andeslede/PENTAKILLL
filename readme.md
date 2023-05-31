@@ -1,5 +1,5 @@
 # Pentakill
-![pentalogo](/PENTAKILLL/pentakill.png"logo")
+![pentalogo](/pentakill.png"logo")
 
 Preguntas:
 1.	¿Cuál es el objetivo del proyecto? Idear a ayudar a los jugadores y nuevos jugadores a visualizar a las mejores ligas de competición y en si a los mejores jugadores del mundo y aprender de ellos.
@@ -28,10 +28,10 @@ Características
 DIAGRAMAS
 
 Diagrama ver noticias
-![pentalogoo](/PENTAKILLL/ver%20noticias.png"noticias")
+![pentalogoo](/ver%20noticias.png"noticias")
 
 Diagrama inicio de sesión
-![pentalogooo](/PENTAKILLL/inicio%20de%20sesion.png"sesion")
+![pentlogooo](/inicio%20de%20sesion.png"sesion")
 
 
 
@@ -64,18 +64,17 @@ Android es el sistema operativo que utilizan algunos dispositivos móviles para 
 Kotlin: es un lenguaje de programación estático de código abierto que admite la programación funcional y orientada a objetos. Proporciona una sintaxis y conceptos similares a los de otros lenguajes, como C#, Java entre muchos otros. 
 Jetpack compose: es el kit de herramientas moderno de Android para compilar IU nativas. Simplifica y acelera el desarrollo de la IU en Android. Haz que tu app cobre vida rápidamente con menos código, herramientas potentes y APIs intuitivas de Kotlin.
 
-
 • Herramientas (Android Studio, Trello, Scrum Poker, Postman,  etc)
 Android Studio: es el IDE oficial de Android que se creó exclusivamente a fin de acelerar el desarrollo y ayudarte a compilar apps de la más alta calidad para todos los dispositivos Android.
 Trello: es una herramienta visual que permite a los equipos gestionar cualquier tipo de proyecto y flujo de trabajo, así como supervisar tareas.
 GitHub: es una plataforma creada para alojar el código de las aplicaciones de cualquier desarrollador web y, que como usuario, da la opción de descargarse la aplicación o acceder a su perfil para leer o colaborar en el desarrollo de los diferentes proyectos.
  
 • Patrón de diseño MVVM (Colocar un ejemplo) 
-![pentalogoooo](/PENTAKILLL/MVVM.png"mvvm")
+![pentalgoooo](/MVVM.png"mvvm")
 
 
 • Arquitectura cliente servidor (Colocar un ejemplo)
-![pentalogooooo](/PENTAKILLL/CLIENTE-SERVIDOR.png"client")
+![petalogooooo](/CLIENTE-SERVIDOR.png"client")
 
 
 
