@@ -1,5 +1,5 @@
 # Pentakill
-![pentalogo](/pentakill.png"logo")
+![pentalogo](/pentakill.png "logo")
 
 Preguntas:
 1.	¿Cuál es el objetivo del proyecto? Idear a ayudar a los jugadores y nuevos jugadores a visualizar a las mejores ligas de competición y en si a los mejores jugadores del mundo y aprender de ellos.
@@ -28,10 +28,10 @@ Características
 DIAGRAMAS
 
 Diagrama ver noticias
-![pentalogoo](/ver%20noticias.png"noticias")
+![pentalogoo](/ver%20noticias.png "noticias")
 
 Diagrama inicio de sesión
-![pentlogooo](/inicio%20de%20sesion.png"sesion")
+![pentlogooo](/inicio%20de%20sesion.png "sesion")
 
 
 
@@ -70,11 +70,11 @@ Trello: es una herramienta visual que permite a los equipos gestionar cualquier 
 GitHub: es una plataforma creada para alojar el código de las aplicaciones de cualquier desarrollador web y, que como usuario, da la opción de descargarse la aplicación o acceder a su perfil para leer o colaborar en el desarrollo de los diferentes proyectos.
  
 • Patrón de diseño MVVM (Colocar un ejemplo) 
-![pentalgoooo](/MVVM.png"mvvm")
+![pentalgoooo](/MVVM.png "mvvm")
 
 
 • Arquitectura cliente servidor (Colocar un ejemplo)
-![petalogooooo](/CLIENTE-SERVIDOR.png"client")
+![petalogooooo](/CLIENTE-SERVIDOR.png "client")
 
 
 
