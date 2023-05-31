@@ -28,10 +28,10 @@ Características
 DIAGRAMAS
 
 Diagrama ver noticias
-![pentalogoo](/Diagramas/ver%20noticias.png"noticias")
+![pentalogoo](/ver%20noticias.png"noticias")
 
 Diagrama inicio de sesión
-![pentalogooo](/Diagramas/inicio%20de%20sesion.png"sesion")
+![pentalogooo](/inicio%20de%20sesion.png"sesion")
 
 
 
@@ -71,11 +71,11 @@ Trello: es una herramienta visual que permite a los equipos gestionar cualquier 
 GitHub: es una plataforma creada para alojar el código de las aplicaciones de cualquier desarrollador web y, que como usuario, da la opción de descargarse la aplicación o acceder a su perfil para leer o colaborar en el desarrollo de los diferentes proyectos.
  
 • Patrón de diseño MVVM (Colocar un ejemplo) 
-![pentalogoooo](/Diagramas/MVVM.png"mvvm")
+![pentalogoooo](/MVVM.png"mvvm")
 
 
 • Arquitectura cliente servidor (Colocar un ejemplo)
-![pentalogooooo](/Diagramas/CLIENTE-SERVIDOR.png"client")
+![pentalogooooo](/CLIENTE-SERVIDOR.png"client")
 
 
 
